@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Android",
+		"AndroidSnippets",
+		"Canvas Snippets",
+		"JavaScript Completions",
+		"jQuery",
+		"LaTeXTools",
+		"Package Control",
+		"react-native-snippets",
+		"Sass",
+		"SASS Snippets",
+		"Theme - Brogrammer",
+		"Theme - itg.flat",
+		"Theme - Solarized Flat"
+	]
+}
